@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Folder containing credentials
+simulator_key/
+
+# Secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
+simulator_key/
+venv/
+.env
+.DS_Store
